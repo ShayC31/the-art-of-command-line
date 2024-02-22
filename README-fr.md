@@ -5,7 +5,7 @@
 
 *Note : Je prévois de réviser le document et suis à la recherche d'un nouveau co-auteur pour en faire un guide plus complet.
 Bien que très populaire, il pourrait être plus étendu et un peu plus approfondi.
-Si vous aimer écrire, n'êtes pas loin d'être un expert du sujet et êtes disposé à contribuer, veuillez me laisser un message à josh (0x40) holloway.com. –[jlevy](https://github.com/jlevy), [Holloway](https://www.holloway.com). Merci !*
+Si vous aimez écrire, n'êtes pas loin d'être un expert du sujet et êtes disposé à contribuer, veuillez me laisser un message à josh (0x40) holloway.com. –[jlevy](https://github.com/jlevy), [Holloway](https://www.holloway.com). Merci !*
 
 - [Méta](#méta)
 - [Notions de base](#notions-de-base)
@@ -35,7 +35,7 @@ Une partie de celui-ci a été [initialement](http://www.quora.com/What-are-some
 
 ## Méta
 
-Contexte :
+Context :
 
 - Ce guide est destiné aux débutants et aux utilisateurs chevronnés.
 Les objectifs sont l'*envergure* (tout est important), la *spécificité* (donner des exemples concrets des cas les plus courants) et la *concision* (éviter tout ce qui n'est pas essentiel et les digressions disponibles facilement ailleurs).
